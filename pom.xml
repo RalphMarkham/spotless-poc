@@ -72,13 +72,13 @@
       <artifactId>shedlock-provider-redis-jedis4</artifactId>
       <version>${net.javacrums.shedlock.version}</version>
     </dependency>
+
     <dependency>
       <groupId>net.javacrumbs.shedlock</groupId>
       <artifactId>shedlock-provider-inmemory</artifactId>
       <version>${net.javacrums.shedlock.version}</version>
       <scope>test</scope>
     </dependency>
-
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-test</artifactId>
